@@ -22,7 +22,7 @@ ssr.sh
 
 ### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://github.com/wbqss/doubi/blob/master/ssr.sh && chmod +x ssr.sh && bash ssr.sh
+wget -N --no-check-certificate https://github.com/wbqss/doubi/blob/master/ssr.sh
 ```
 
 ssrmu.sh
