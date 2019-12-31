@@ -1,16 +1,15 @@
-＃逗比大佬转载
-＃一个逗比写的逗比脚本过来的脚本
+<h6>＃逗比大佬转载
+<h6>＃一个逗比写的逗比脚本过来的脚本
 
-==================================================================
-dd-od.sh dd-gd.sh
-Linux：centos6、7; Ubuntu 14 16 18；Debian 7 8 9 10； Windows：集合了“”萌咖大佬、老司机、MeowLove “”的系统，包含win7 2003 2006 2012 2008 2016 2019等系统。当然也可以自定义。
-使用方法
+===================================================================================================
+<h4>dd-od.sh dd-gd.sh
+<h5>Linux：centos6、7; Ubuntu 14 16 18；Debian 7 8 9 10； Windows：集合了“”萌咖大佬、老司机、MeowLove “”的系统，包含win7 2003 2006 2012 2008 2016 2019等系统。当然也可以自定义。
+<h6>使用方法
 ##镜像文件在OneDrive
 wget -N --no-check-certificate https://raw.githubusercontent.com/veip007/dd/master/dd-od.sh && chmod +x dd-od.sh && ./dd-od.sh
  ##镜像文件在GoogleDrive
 wget -N --no-check-certificate https://raw.githubusercontent.com/veip007/dd/master/dd-gd.sh && chmod +x dd-gd.sh && ./dd-gd.sh
-
-===================================================================
+============================================================================================================
 
 ssr.sh
 ======
